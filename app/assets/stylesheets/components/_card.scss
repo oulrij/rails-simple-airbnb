@@ -74,8 +74,17 @@
 .card-links a{
   font-size: 16px;
   text-decoration: none;
+  margin-right: 20px;
 }
 
 .card-link:hover {
   opacity: 0.1;
+}
+
+.red-link{
+  color: red;
+}
+
+.orange-link{
+  color: orange;
 }
